@@ -21,7 +21,7 @@ class _DetailPageState extends State<DetailPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Favori Kelimelerim",
+          "Favori Kelimeler",
           style: TextStyle(
               fontSize: context.dynamicHeight(0.05),
               fontWeight: FontWeight.bold,
